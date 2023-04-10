@@ -7,5 +7,5 @@ I am a Mechanical Engineer who turned into a Data Scientist. Here are some cool 
 - The trained ML model shows that they are good predictors of elastic constants of materials, and can even generalizes well for materials beyond their training set.
 - I also demonstrated the practical utility of the developed model by making high-throughput predictions on all possible compositions that can be combinatorially-enumerated within a five-component Nickel based alloy system.
 
-<img src="/images/ML_thesis2.png" alt="ML thesis image" width="500"/>
+  <img src="/images/ML_thesis2.png" alt="ML thesis image" width="315"/>.<img src="/images/ML_thesis.png" alt="ML thesis image 2" width="400"/>
 
