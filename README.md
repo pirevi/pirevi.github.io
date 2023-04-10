@@ -13,3 +13,5 @@ I am a Mechanical Engineer who turned into a Data Scientist. Here are some proje
 - The goal was to create a Convolutional Neural Network based model which will be able to identify the gender and emotion of a person in real time.
 - I created two separate models. One which will be trained to classify faces based on gender and the other one which will be able to detect emotion of the face.
 - I have used Tensorflow with Keras for our model training and OpenCV for real-time face detection and prediction.
+  
+  <img src="/images/face_recognition.jpg" alt="face expression" width="700"/>
