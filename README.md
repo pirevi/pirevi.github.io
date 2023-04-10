@@ -6,5 +6,6 @@ I am a Mechanical Engineer who turned into a Data Scientist. Here are some cool 
 - The goal was to design surrogate ML model for property prediction of Multi-Component alloys, bypassing the conventional way of property prediction using computationally intensive DFT simulation.
 - The trained ML model shows that they are good predictors of elastic constants of materials, and can even generalizes well for materials beyond their training set.
 - I also demonstrated the practical utility of the developed model by making high-throughput predictions on all possible compositions that can be combinatorially-enumerated within a five-component Nickel based alloy system.
-![alt text](/images/ML_thesis2.png)
+
+<img src="/images/ML_thesis2.png" alt="ML thesis image" width="500"/>
 
