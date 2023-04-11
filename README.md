@@ -1,4 +1,5 @@
-I am a Mechanical Engineer who turned into a Data Scientist. Here are some projects that I had worked on.
+## Hi, I am Vivek Revi
+A Mechanical Engineer who turned into a Data Scientist. Here are some projects that I had worked on.
 
 # [Machine Learning Elastic Constants of Multi-Component Alloys](https://doi.org/10.1016/j.commatsci.2021.110671)
 - This was a project which I converted into a research article, it was done as part of my M.Tech thesis in IIT Bombay.
