@@ -1,4 +1,3 @@
-# Hi, I am Vivek Revi.
 I am a Mechanical Engineer who turned into a Data Scientist. Here are some projects that I had worked on.
 
 # [Machine Learning Elastic Constants of Multi-Component Alloys](https://doi.org/10.1016/j.commatsci.2021.110671)
